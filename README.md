@@ -6,7 +6,9 @@
 
 - 🔭 I’m currently an undergraduate student at ACM Class, Shanghai Jiao Tong University, major in computer science.
 - 🌱 I’m currently learning Data Structure.
+- 👨‍💻 I’m currently working on [TicketSystem](https://github.com/zsq259/TicketSystem).
 - 📫 How to reach me: hastin259@gmail.com .
+- 🌐 My blog: [https://hastin-blog.cn](https://hastin-blog.cn).
 
 <p align="center"> 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zsq259&show_icons=true&theme=dark" />
