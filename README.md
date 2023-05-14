@@ -4,9 +4,9 @@
 
 ### Hi there 👋
 
-<!--
 **zsq259/zsq259** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -19,10 +19,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=zsq259&show_icons=true&theme=dark&count_private=true)
+<p>
+<img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
+<a href="https://space.bilibili.com/456308396"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=cyan"/></a>
+<img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/zsq259&right_color=red" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zsq259&theme=dark&layout=compact)
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=zsq259&right_color=red" />
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zsq259&theme=dark&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=zsq259&show_icons=true&theme=dark&count_private=true)
+![](https://stats.justsong.cn/api/csdn?id=zsq259&theme=dark)
+![](https://stats.justsong.cn/api/bilibili/?id=456308396&theme=dark)
 ![](https://activity-graph.herokuapp.com/graph?username=zsq259&theme=github)
