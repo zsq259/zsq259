@@ -5,7 +5,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently an undergraduate student at ACM Class, Shanghai Jiao Tong University, major in computer science.
-- 🌱 I’m currently learning Data Structure.
 - 📫 How to reach me: zsq259@sjtu.edu.cn .
 - 🌐 My blog: [https://hastin-blog.cn](https://hastin-blog.cn).
 
